@@ -9,13 +9,13 @@ The aim of this project is to measure the functional diffusion of opsin-dependan
 * [] Upload script and ouput matrices
 ### Spiking Network
 * [x] Extract morphology from swc files
-* [] Create opsin-based currents with Brian
 * [x] Reconstruct cortical morphology from [this paper](https://www.biorxiv.org/content/10.1101/662189v2.full.pdf) and [this file](https://www.dropbox.com/sh/w5u31m3hq6u2x5m/AAD34a7F63f7nRYUq2vLR3sha/build_model/column_structure.xlsx?dl=0)
+* [] Create opsin-based currents with Brian
 * [] Create population-level opsin currents
 
 ## Some figures
 A single layer of the model 
-![Cannot display correctly image](../figs/onelayer.png)
+![Cannot display correctly image](github.com/hugoladret/covid/figs/onelayer.png)
 
 Multiple layers of the model 
 ![Cannot display correctly image](../figs/all_layers.png)
