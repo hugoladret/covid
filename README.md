@@ -15,7 +15,7 @@ The aim of this project is to measure the functional diffusion of opsin-dependan
 
 ## Some figures
 A single layer of the model 
-![Cannot display correctly image](github.com/hugoladret/covid/figs/onelayer.png)
+![Cannot display correctly image](https://github.com/hugoladret/covid/blob/master/figs/onelayer.png)
 
 Multiple layers of the model 
-![Cannot display correctly image](../figs/all_layers.png)
+![Cannot display correctly image](https://github.com/hugoladret/covid/blob/master/figs/all_layers.png)
