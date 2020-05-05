@@ -1,4 +1,4 @@
-# Cortical Optogenetics : Validation and Inference of light Diffusion (COVID)
+# Computational Optogenetics : Validation and Inference of light Diffusion (COVID)
 ## Master 2 project by Louis Eparvier, in collaboration with Hugo Ladret & Samuel Bélanger, supervised by Matthieu Vanni
 
 ## Description of the project
